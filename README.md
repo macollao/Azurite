@@ -34,9 +34,9 @@ Import the AzureRM module:
 
 Import Azurite Explorer module in PowerShell and retrieve the information for an Azure subscription. 
 
-    # PS> Import-Module AzuriteExplorer.ps1
+    # IEX (New-Object Net.Webclient).downloadstring("https://raw.githubusercontent.com/macollao/Azurite/master/AzuriteExplorer.ps1")
     # PS> Review-AzureRmSubscription
-
+ 
 Provide credentials for the Azure subscription under review. The user should belong to one of the following roles:
 * Owner
 * Contributor
