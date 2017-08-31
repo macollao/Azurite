@@ -8,7 +8,7 @@ _Azurite_ was developed to assist penetration testers and auditors during the en
 
 ## Pre-requisites
 
-* Download and install the Azure PowerShell Cmdlets ([How to install and configure Azure PowerShell](https://azure.microsoft.com/en-gb/documentation/articles/powershell-install-configure/)).
+* Download and install the Azure PowerShell Cmdlets ([How to install and configure Azure PowerShell](https://docs.microsoft.com/en-us/powershell/azure/install-azurerm-ps?view=azurermps-4.3.1)).
 * Download and install Python 2.7.
 * Download and install Firefox.
 * Clone the repository:
